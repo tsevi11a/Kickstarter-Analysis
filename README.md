@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaign
+# An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
 
